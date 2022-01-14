@@ -1,0 +1,40 @@
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe.config
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.pdb
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csprojResolveAssemblyReference.cache
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.CustomerDetails.resources
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.Properties.Resources.resources
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csproj.GenerateResource.Cache
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.exe
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pdb
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.Deliver.resources
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pizzaMenu.resources
+C:\Users\20085492\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.orderConfirm.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csprojAssemblyReference.cache
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.CustomerDetails.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pizzaMenu.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.orderConfirm.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.Properties.Resources.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csproj.GenerateResource.cache
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csproj.CoreCompileInputs.cache
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.exe
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pdb
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe.config
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.pdb
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.CustChoice.resources
+C:\Users\wango\OneDrive - Activate Learning\Coding\C#\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.EditDetails.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe.config
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.exe
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\bin\Debug\EtheriaPizza.pdb
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csprojAssemblyReference.cache
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.CustomerDetails.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.EditDetails.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.CustChoice.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pizzaMenu.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.orderConfirm.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.Properties.Resources.resources
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csproj.GenerateResource.cache
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.csproj.CoreCompileInputs.cache
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.exe
+C:\Users\wango\OneDrive - Activate Learning\Unit 4-16\Assignments\Assignment 2\EtheriaPizza\EtheriaPizza\obj\Debug\EtheriaPizza.pdb
